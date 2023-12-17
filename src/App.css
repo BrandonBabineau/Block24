@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+.App { 
+  background-color: rgb(116, 142, 132);
+  border-style: dotted;
+  border-radius: 10px;
+  padding:30px;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body{
+  background-color:rgb(79, 135, 79);;
+}
